@@ -28,7 +28,7 @@ def generate(image_path):
             "content": [
             {
                 "type": "text",
-                "text": "Describe the person in the picture by stating the following characteristics in the given structure:\nApproximate Age:\nSex/Gender:\nRace/Ethnicity:\nBuild:\nComplexion:\nEye Color:\nHair Color and Style:"#\nFacial Features (e.g., beard, scars, wrinkles), Tattoos (location, description, meaning if relevant), Scars, Marks, and Piercings (location and description), Glasses or Other Accessories."
+                "text": "Describe the person in the picture by stating the following characteristics in the given structure:\nApproximate Age:\nSex/Gender:\nRace/Ethnicity:\nBuild:\nComplexion:\nEye Color:\nHair Color and Style:"
             },
             {
                 "type": "image_url",
